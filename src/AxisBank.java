@@ -18,7 +18,13 @@ public class AxisBank extends BankInfo {
 		
 		System.out.println("From child class");
 		
+		System.out.println("hai");
+		System.out.println("hello");
+		System.out.println("greens technology");
 		System.out.println("java");
 		System.out.println("selenium");
+
+	
+ 
 	}
 }
