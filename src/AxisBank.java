@@ -17,5 +17,9 @@ public class AxisBank extends BankInfo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("From child class");
+		
+		System.out.println("hai");
+		System.out.println("hello");
+		System.out.println("greens technology");
 	}
 }
